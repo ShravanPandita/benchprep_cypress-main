@@ -1,0 +1,6 @@
+{
+  "baseUrl": "https://wmx.benchprep.com/",
+  "env": {
+    "environment": "production"
+  }
+}

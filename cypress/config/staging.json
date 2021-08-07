@@ -1,0 +1,6 @@
+{
+  "baseUrl": "https://isaca.staging.benchprep.com",
+  "env": {
+    "environment": "staging"
+  }
+}

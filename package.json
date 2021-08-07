@@ -1,0 +1,24 @@
+{
+  "name": "benchprepautomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open:staging": "cypress open --config-file ./cypress/config/staging.json",
+    "cypress:run:integration": "cypress run --config-file cypress/cypress-integration.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SunilPandeyTechment/benchprep_cypress.git"
+  },
+  "author": "Indu Sahu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SunilPandeyTechment/benchprep_cypress/issues"
+  },
+  "homepage": "https://github.com/SunilPandeyTechment/benchprep_cypress#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^7.7.0"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "baseUrl": "http://wmx.benchprep.localhost/",
+  "env": {
+    "environment": "development"
+  }
+}
